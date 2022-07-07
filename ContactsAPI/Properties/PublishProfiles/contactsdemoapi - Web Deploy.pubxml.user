@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARb9MfIrTbEmVaSG8zDhI8AAAAAACAAAAAAAQZgAAAAEAACAAAAB5Iy5+YYAX6wqUrP6nEKX+mfclDh8qIC6LcL3OFPn33gAAAAAOgAAAAAIAACAAAADphtSI+B/R8A7iE1lrC4D9HURLc+xUjrMV4Qj3XQpFl4AAAAD/6s0cyDxT2TudiAM43o2wpYWrWyBBma4PjOUwj2MJZyeMdWGXs2EbHRDJngxNStqE9rAxOytb5vjlEMbkBO/UET+/8caoIqS45TWPOgF9Th/DsZ8b1S3nkLTjUmsXOiX8qWj+khamgjaifkNJHVtfqlZBBl+n396vA4YhPGF8CkAAAADEpC8qCrMjYA+fJcQYeisGKtDosZ/TwapTfD0RdLOaKlJxGQPXPl7h+HN4bWKUCjiRUltTwS/vulmADQ9b9U9y</EncryptedPassword>
+    <History>True|2022-07-07T18:26:05.3578583Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ContactsApiConnectionsString">
+      <Value>Data Source=tcp:contactsapidbserver.database.windows.net,1433%3bInitial Catalog=ContactsApiDB%3bUser Id=serveradmin%40contactsapidbserver%3bPassword=110192D%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
